@@ -28,3 +28,4 @@ Route::post('/register', function(Request $request) {
         'password' =>  $request->input('password'),
     ]);
 });
+// tester
